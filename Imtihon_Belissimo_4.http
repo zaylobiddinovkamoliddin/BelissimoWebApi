@@ -1,0 +1,6 @@
+@Imtihon_Belissimo_4_HostAddress = http://localhost:5182
+
+GET {{Imtihon_Belissimo_4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
